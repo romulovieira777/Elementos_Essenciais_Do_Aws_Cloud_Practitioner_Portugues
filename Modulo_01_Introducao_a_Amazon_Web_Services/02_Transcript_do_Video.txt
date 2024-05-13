@@ -1,0 +1,31 @@
+Antes de nos aprofundarmos nos recursos da AWS, vamos primeiro entender qual é a definição de computação na nuvem.
+Computação na nuvem é a entrega de recursos de TI sob demanda pela internet onde você paga somente pelo que utilizar.
+Vamos dar uma olhadinha nisso?
+
+Entrega sob demanda. Quer dizer que a AWS tem os recursos dos quais você precisa na hora em que você precisa. Portanto,
+não é necessário avisar com antecedência que você precisará de algum recurso. Se você tem a necessidade, por exemplo,
+de 300 servidores virtuais, é possível iniciá-los com poucos cliques ou não.  O que eu preciso é de 2000 terabytes de
+armazenamento.
+
+Tudo bem, basta usar o armazenamento ou qualquer outro recurso quando precisar dele. Quando você não precisar mais, você
+irá devolver os recursos com rapidez e a cobrança será encerrada imediatamente. Você não conseguiria ter esse tipo de
+flexibilidade gerenciando seus próprios datacenters.
+
+A ideia de ofertar recursos de TI é uma grande parte da filosofia da AWS. Muitas vezes nos perguntam por que a AWS tem
+tantos produtos? E a resposta é simples: porque as empresas precisam deles. Pense em um banco de dados MySQL, por
+exemplo. Se a empresa utiliza um banco de dados MySQL, o fato de trabalhar com esse sistema de gerenciamento de banco
+de dados faz com que a empresa seja melhor do que as concorrentes? Provavelmente não.
+
+Executar rotinas de backup faz com que a empresa seja melhor do que outras do setor? Mais uma vez, eu acho que não. Cada
+banco de dados possui dados diferentes. A forma como as tabelas são criadas e as estruturas são gerenciadas e os dados
+são tratados  é o que separa você da concorrência? Na AWS, isso é chamado de fardo operacional de TI.
+
+A AWS deseja ajudar você com essas tarefas comuns, muitas vezes repetitivas e demoradas, assim, você pode se concentrar
+no que te torna único. Você irá acessar esses recursos pela internet por meio de uma console web segura ou de forma
+programática. Não é necessário fazer novos contratos ou falar com a equipe de vendas. Lembre-se você irá pagar somente
+pelo que utilizar.
+
+Lá na cafeteria, os funcionários não ficam 24 horas por dia em uma loja e você não mantém o mesmo número de funcionários
+que teria em um momento de pico durante todo o expediente. Às vezes você nem precisa de funcionários. A cafeteria fecha
+em algum momento, né? Então, por que pagar por ambientes de desenvolvedor, por exemplo, nos finais de semana, se os
+desenvolvedores não trabalham os finais de semana?
