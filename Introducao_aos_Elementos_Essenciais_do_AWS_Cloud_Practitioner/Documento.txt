@@ -1,0 +1,19 @@
+Introdução aos Elementos essenciais do AWS Cloud Practitioner
+
+Visão geral do curso
+
+Boas-vindas ao curso Elementos essenciais do AWS Cloud Practitioner.
+
+Nos módulos 1 a 10, você desenvolverá seu conhecimento da nuvem AWS aprendendo sobre conceitos da nuvem AWS, serviços da
+AWS, segurança, arquitetura, definição de preços e suporte.
+
+    - As lições em cada módulo incluem vídeos, informações de suporte e links para recursos adicionais para aprimorar
+    seu conhecimento acerca dos serviços da AWS.
+    - Os testes de conhecimento e os questionários são oportunidades para rever os principais conceitos abordados em
+    cada módulo. Depois de responder a cada pergunta, leia as explicações detalhadas da resposta e os links externos
+    para consolidar a compreensão dos conceitos.
+
+No módulo final 11, você aprenderá sobre a estrutura do exame AWS Certified Cloud Practitioner. Você também conhecerá
+estratégias que ajudam a aumentar a probabilidade de aprovação no exame.
+
+O curso terminará com uma avaliação final de 30 perguntas.
