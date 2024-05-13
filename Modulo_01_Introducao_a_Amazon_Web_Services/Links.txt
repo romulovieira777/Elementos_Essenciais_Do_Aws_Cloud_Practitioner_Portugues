@@ -1,0 +1,9 @@
+Recursos adicionais
+
+Para saber mais sobre os conceitos explorados no módulo 1, consulte estes recursos.
+
+- AWS Glossary
+https://docs.aws.amazon.com/glossary/latest/reference/glos-chap.html
+
+- Overview of Amazon Web Services - AWS Whitepaper
+Download PDF

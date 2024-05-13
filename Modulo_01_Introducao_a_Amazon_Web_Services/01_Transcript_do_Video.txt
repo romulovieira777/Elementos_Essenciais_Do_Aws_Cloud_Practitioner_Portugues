@@ -1,0 +1,100 @@
+Olá a todos e todas,!  Sejam muito bem vindos ao curso AWS Cloud Practitioner Essentials.
+
+Meu nome é Marilia Brito, eu sou Senior Technical Trainer na AWS.  Eu estou há seis anos na área de tecnologia e sou
+especialista em Analytics. Antes de trabalhar no fantástico mundo da nuvem, eu atuei por quase dez anos como designer
+gráfico, mas a paixão pela tecnologia já existia desde a adolescência.
+
+Eu aprendi um pouco de front end quando eu tinha uns 16 anos. Eu queria fazer um site sobre o meu animê favorito da
+época, mas eu confesso que esse site ficou bem cheio de coisa, então tinha um cursor customizado, música de fundo era
+um caos, mas eu fiquei orgulhosa de mim mesma na época.
+
+Eu morei a vida inteira em São Paulo, mas eu adoro viajar e conhecer lugares novos.Ah, e o que eu mais gosto de comer é
+comida japonesa. E meu serviço favorito da AWS é o Amazon RedShift e eu vou falar sobre ele  alguns módulos a frente
+neste treinamento.
+
+Oi, eu sou o Phelipe Fabres, sou Senior Technical Trainer na AWS e atuo há mais de 15 anos na área de tecnologia.
+Antes de trabalhar com computação em nuvem, eu atuei como desenvolvedor de software e também na área de educação.
+
+Na verdade, eu completei o bingo da academia:  graduação, mestrado e doutorado. A sala de aula faz parte do meu dia a
+dia e quando a AWS veio com a proposta  de combinar tecnologia de ponta com o ensino, a escolha era bem simples para mim.
+
+Eu venho do interior do país, mais especificamente do estado de Rondônia.
+
+Hoje eu moro no Mato Grosso do Sul, meu estado de adoção, onde vivo com a minha família, aproveitando o calor do
+Pantanal, mas sempre com uma boa cuia de tereré do lado.  Meus serviços favoritos na AWS estão relacionados com
+Serverless e Machine Learning. Muito obrigado por nos acompanhar nessa jornada.
+
+Oi, sou Henrique Ferreira, É um grande prazer estar com vocês neste treinamento. Sou Senior Technical Trainer na AWS e
+atuo há mais de 28 anos na área de tecnologia. Desde muito pequeno era fascinado pela tecnologia que fazia a luz
+acender em casa, as pessoas se comunicarem por longas distâncias e os jogos que permitiam interações cada vez mais
+realistas.
+
+Sim, quando entrei nessa jornada, as coisas eram muito diferentes e sou privilegiado por ver tantas novidades surgirem
+em quase três décadas. Estou na AWS há três anos e meio, aprendendo diariamente sobre novos produtos e serviços além de
+agregar minha experiência na transmissão de conhecimento para clientes e parceiros. Atualmente moro no interior de
+São Paulo com minha família, meu hobbie favorito é treinar Jiu-Jitsu com meu filho mais novo. Meus serviços favoritos na
+AWS estão relacionados com armazenamento como AmazonS3, EBS, EFS, entre outros. Muito obrigado por nos acompanhar nessa
+jornada.
+
+Olá, tudo bem? Meu nome é Aleff Corrêa e eu sou um Technical Trainer na AWS. Quando eu me candidatei a uma vaga na AWS
+há mais de três anos atrás, eu não sabia muito sobre o que a AWS fazia e estava na mesma situação que você talvez esteja
+agora, mas não se preocupe, eu e os meus colegas vamos trazer o fundamental sobre a nuvem AWS para que você inicie sua
+jornada de aprendizado com o pé direito. Eu saí da cidade de Registro no interior de São Paulo para começar na área de
+TI, pensando em desenvolvimento de software.
+
+E eu ainda gosto muito desse tema, mas foi num dos meus primeiros empregos que eu descobri que gostava muito dessa troca
+de informações e aprendizado, quando você ensina algo a alguém. E é por isso que hoje estou aqui para falar de redes e
+segurança.  Espero que você tenha uma ótima experiência de treinamento.
+
+Neste curso você irá conferir um conteúdo preparado especialmente para você que está iniciando na nuvem AWS. Nosso
+objetivo é que você se sinta confortável para participar de discussões sobre a nuvem AWS e tenha compreensão de como a
+AWS irá trazer vantagens para o seu negócio.
+
+A AWS oferece diversos serviços para atender as mais diversas necessidades de negócio, disponibilizando ferramentas
+especializadas para você desfrutar desde elementos básicos, como serviços de poder  computacional, armazenamento,
+segurança e redes e até soluções mais complexas como blockchain, machine learning, inteligência artificial e até mesmo
+plataformas de desenvolvimento de robôs. São mais de 200 serviços disponíveis.
+
+Então, se fossemos cobrir todos eles neste curso, precisaríamos de muito tempo e uma imensa quantidade de café. Então,
+para simplificar a nossa conversa, vamos começar com o básico deste modelo de computação em nuvem. Gente, praticamente
+toda a computação moderna se baseia no modelo cliente servidor.  Mas para entender melhor, não só esse, mas os diversos
+conceitos que iremos abordar, nós vamos trabalhar com analogias.
+
+Neste curso, usaremos como exemplo uma cafeteria para que você entenda por que a AWS pode mudar a forma como a sua área
+de TI opera. Marilia será o servidor, a barista. Eu sou o cliente, o consumidor. Faço um pedido. Neste caso, peço um
+café. No mundo da computação, o pedido pode ser qualquer coisa. Pode ser a análise do padrão de chuva na África do Sul,
+as últimas radiografias do seu joelho ou um vídeo de gatinhos.
+
+Qualquer que seja a empresa, basicamente um cliente faz um pedido e o servidor responde a esse pedido por meio de
+permissões. Tudo o que quero é uma bebida com cafeína. Marilia representa parte do servidor no modelo cliente servidor.
+Na AWS, essa parte será chamada de Elastic Compute Cloud,  ou EC2, uma instância do EC2, um servidor virtual.
+
+Do ponto de vista da arquitetura, é simples explicar a transação que fizemos. Eu, o usuário, fiz uma solicitação para a
+Marilia, o servidor. Marilia, validou a solicitação como legítima. Neste caso, eu paguei para ela. Em seguida, ela
+devolveu uma resposta, que neste caso é um café gelado com doses extras de caramelo. No mundo real, aplicações podem
+ficar mais complicadas do que uma única transação com um único servidor.
+
+Em uma solução corporativa mais sofisticada, a situação pode ficar muito complexa. E justamente para não confundir
+ninguém, vamos começar com o básico. Neste curso abordaremos esses conceitos para que qualquer pessoa os entenda
+facilmente. Vamos começar com o conceito de pagar somente pelo que utilizar. Isso é essencial quando se trabalha com
+recursos na AWS. Esse princípio faz sentido no cenário da cafeteria.
+
+Os funcionários só são pagos se trabalharem. Quando a Marilia e o Henrique estão aproveitando seu tempo de lazer fora da
+cafeteria, eles não vão estar sendo pagos. O proprietário da loja decide quantos baristas ele precisa e paga apenas
+pelas horas trabalhadas. Por exemplo, a cafeteria lançará uma nova bebida especial e por tempo limitado. Para conseguir
+atender a todos os clientes caso uma fila enorme que surja de uma hora para outra, o proprietário pode contratar uma
+dúzia de baristas para esse dia.
+
+Mas vamos ser sinceros, provavelmente não teremos clientes o suficiente durante todo o dia que justifique pagar essa
+quantidade de funcionários. No entanto, isso é exatamente o que acontece em um datacenter on premises. Você não pode
+simplesmente estalar os dedos para triplicar a capacidade. Na AWS, você não paga antecipadamente por nada. Você não
+precisa se preocupar com restrições de capacidade.
+
+Quando você precisa de instâncias ou baristas basta clicar em um botão para consegui-las. Quando você não precisa mais
+delas, com outro clique, elas vão embora e você para de pagar por elas. Da mesma forma que você não paga para os
+funcionários as horas que eles não trabalham. Pagar pelo que se usa é o primeiro valor essencial de quem gerencia uma
+empresa na AWS.
+
+Por isso estamos aqui para ajudar você a entender como a AWS é criada para auxiliar no gerenciamento da sua empresa.
+Esperamos que você fique conosco até o final do curso enquanto aprofundamos esses conceitos e ajudamos você em sua
+jornada para ser um Cloud Practitioner.
