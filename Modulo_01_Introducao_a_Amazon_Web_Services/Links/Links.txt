@@ -7,3 +7,9 @@ https://docs.aws.amazon.com/glossary/latest/reference/glos-chap.html
 
 - Overview of Amazon Web Services - AWS Whitepaper
 Download PDF
+
+- O que é a computação em nuvem?
+https://aws.amazon.com/pt/what-is-cloud-computing/
+
+- Nuvem híbrida com a AWS
+https://aws.amazon.com/pt/hybrid/

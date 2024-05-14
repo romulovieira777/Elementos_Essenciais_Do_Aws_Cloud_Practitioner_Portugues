@@ -18,7 +18,7 @@ de dados faz com que a empresa seja melhor do que as concorrentes? Provavelmente
 
 Executar rotinas de backup faz com que a empresa seja melhor do que outras do setor? Mais uma vez, eu acho que não. Cada
 banco de dados possui dados diferentes. A forma como as tabelas são criadas e as estruturas são gerenciadas e os dados
-são tratados  é o que separa você da concorrência? Na AWS, isso é chamado de fardo operacional de TI.
+são tratados é o que separa você da concorrência? Na AWS, isso é chamado de fardo operacional de TI.
 
 A AWS deseja ajudar você com essas tarefas comuns, muitas vezes repetitivas e demoradas, assim, você pode se concentrar
 no que te torna único. Você irá acessar esses recursos pela internet por meio de uma console web segura ou de forma
