@@ -13,3 +13,9 @@ https://aws.amazon.com/pt/what-is-cloud-computing/
 
 - Nuvem híbrida com a AWS
 https://aws.amazon.com/pt/hybrid/
+
+- Hybrid Cloud services
+https://aws.amazon.com/pt/hybrid/services/#Use_case.3A_Cloud_services_on-premises
+
+- Infraestrutura global da AWS
+https://aws.amazon.com/pt/about-aws/global-infrastructure/
